@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.0.0",
+    "bcrypt": "^5.0.1",
+    "dataloader": "^2.0.0",
+    "date-fns": "^2.22.1",
+    "graphql": "^15.5.1",
+    "graphql-tools": "^4.0.8",
+    "joi": "^17.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
