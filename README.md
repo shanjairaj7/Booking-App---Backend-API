@@ -1,4 +1,5 @@
 # Booking-App : Backend-API
+![graphql-reasons](https://user-images.githubusercontent.com/53570970/126030990-404c9e7f-a604-49b1-90de-8b1af0a789c1.png)
 
 A Backend API built using GraphQL, Apollo & Nodejs. This has functionalities like: 
 - User Signup & Signin
